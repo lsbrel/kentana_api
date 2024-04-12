@@ -9,6 +9,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<p>
+    A KentannaTx é uma empresa de pequeno porte especializada no ramo têxtil, com foco na criação e produção de roupas country para crianças e adolescentes. Com um estilo único e autêntico, a marca se destaca por suas peças exclusivas que capturam a essência da moda country. Além disso, a KentannaTx possui uma marca registrada que reflete     sua dedicação à qualidade e à originalidade. Com uma equipe dedicada e apaixonada, a empresa está constantemente inovando para oferecer aos seus clientes produtos que combinam estilo, conforto e durabilidade, tornando a experiência de vestir KentannaTx verdadeiramente memorável.
+</p>
 
 ## instruções
 
